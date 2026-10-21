@@ -1,0 +1,7 @@
+*
+**
+***
+****
+
+here row_no= no of stars.
+only one input i.e n-no of rows.
