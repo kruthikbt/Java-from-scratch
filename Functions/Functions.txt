@@ -1,0 +1,1 @@
+* Functions are stored in the memory in the form of Stack and all the variables are stored in stack frame.
